@@ -1,0 +1,95 @@
+Enter 1 if you want to add a book, otherwise enter any other number.
+1
+Enter name of the book: Origin
+Enter name of the author: Dan Brown
+"Origin" by "Dan Brown" has been added to the library.
+Enter 1 to add another book, or any other number to stop.
+1
+Enter name of the book: Deception Point
+Enter name of the author: Dan Brown
+"Deception Point" by "Dan Brown" has been added to the library.
+Enter 1 to add another book, or any other number to stop.
+1
+Enter name of the book: The Lost Symbol
+Enter name of the author: Dan Brown
+"The Lost Symbol" by "Dan Brown" has been added to the library.
+Enter 1 to add another book, or any other number to stop.
+1
+Enter name of the book: The Da Vinci Code
+Enter name of the author: Dan Brown
+"The Da Vinci Code" by "Dan Brown" has been added to the library.
+Enter 1 to add another book, or any other number to stop.
+1
+Enter name of the book: And then there were none
+Enter name of the author: Agatha Christie
+"And then there were none" by "Agatha Christie" has been added to the library.
+Enter 1 to add another book, or any other number to stop.
+1
+Enter name of the book: Murder of Roger Ackroyd
+Enter name of the author: Agatha Chrisitie
+"Murder of Roger Ackroyd" by "Agatha Chrisitie" has been added to the library.
+Enter 1 to add another book, or any other number to stop.
+1
+Enter name of the book: Partners in Crime
+Enter name of the author: Agatha Christie
+"Partners in Crime" by "Agatha Christie" has been added to the library.
+Enter 1 to add another book, or any other number to stop.
+1
+Enter name of the book: The 13 Problems
+Enter name of the author: Agatha Chrisitie
+"The 13 Problems" by "Agatha Chrisitie" has been added to the library.
+Enter 1 to add another book, or any other number to stop.
+1
+Enter name of the book: Sherlock Holmes
+Enter name of the author: Arthur Canon Doyle
+"Sherlock Holmes" by "Arthur Canon Doyle" has been added to the library.
+Enter 1 to add another book, or any other number to stop.
+1
+Enter name of the book: Children at Green Meadows
+Enter name of the author: Enid Bluyton
+"Children at Green Meadows" by "Enid Bluyton" has been added to the library.
+Enter 1 to add another book, or any other number to stop.
+1
+Enter name of the book: Bhagvad Gita
+Enter name of the author: Sri Krishna
+"Bhagvad Gita" by "Sri Krishna" has been added to the library.
+Enter 1 to add another book, or any other number to stop.
+1
+Enter name of the book: Frankestein
+Enter name of the author: Mary Shelly
+"Frankestein" by "Mary Shelly" has been added to the library.
+Enter 1 to add another book, or any other number to stop.
+1
+Enter name of the book: Narsimha
+Enter name of the author: Kevin Missal
+"Narsimha" by "Kevin Missal" has been added to the library.
+Enter 1 to add another book, or any other number to stop.
+1
+Enter name of the book: Malgudi Days
+Enter name of the author: RK Narayanan
+"Malgudi Days" by "RK Narayanan" has been added to the library.
+Enter 1 to add another book, or any other number to stop.
+1
+Enter name of the book: Son of Neptune
+Enter name of the author: Rick Riordan
+"Son of Neptune" by "Rick Riordan" has been added to the library.
+Enter 1 to add another book, or any other number to stop.
+0
+Total number of books: 15
+Books in the library:
+- Origin by Dan Brown
+- Deception Point by Dan Brown
+- The Lost Symbol by Dan Brown
+- The Da Vinci Code by Dan Brown
+- And then there were none by Agatha Christie
+- Murder of Roger Ackroyd by Agatha Chrisitie
+- Partners in Crime by Agatha Christie
+- The 13 Problems by Agatha Chrisitie
+- Sherlock Holmes by Arthur Canon Doyle
+- Children at Green Meadows by Enid Bluyton
+- Bhagvad Gita by Sri Krishna
+- Frankestein by Mary Shelly
+- Narsimha by Kevin Missal
+- Malgudi Days by RK Narayanan
+- Son of Neptune by Rick Riordan
+Are you satisfied? yes
